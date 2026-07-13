@@ -103,7 +103,7 @@ Model yang digunakan berasal dari repositori:
 ## Persyaratan Sistem
 
 - **Flutter SDK** 3.44+ & Dart 3.12+
-- **Java JDK** 17 atau 21 (Java 25+ **tidak** kompatibel)
+- **Java JDK** 17 atau 21
 - **Android Studio** / VS Code dengan ekstensi Flutter
 - **Perangkat Android** (fisik atau emulator)
 
@@ -122,12 +122,6 @@ flutter pub get
 # Jalankan di perangkat / emulator
 flutter run
 ```
-
-> **Catatan:** Pastikan `JAVA_HOME` mengarah ke JDK 17/21, bukan 25+.
-> ```bash
-> export JAVA_HOME=/usr/lib/jvm/java-21-openjdk
-> ```
-
 Jika ingin mode rilis:
 ```bash
 flutter run --release
