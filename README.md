@@ -209,8 +209,6 @@ sawit_app/
   </tr>
 </table>
 
-Proyek ini adalah bagian dari **Bangkit Academy 2023** &mdash; Program Kampus Merdeka.
-
 ---
 
 ## Lisensi
