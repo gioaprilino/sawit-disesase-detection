@@ -1,0 +1,112 @@
+{
+  "capnodium": {
+    "name": "Jamur Jelaga (Capnodium)",
+    "description": "Penyakit yang disebabkan oleh jamur yang tumbuh pada embun madu yang dikeluarkan oleh serangga hama seperti kutu daun, kutu putih, dan kutu sisik. Jamur ini membentuk lapisan hitam pada permukaan daun sehingga menghambat fotosintesis.",
+    "severity": "sedang",
+    "treatments": [
+      "Kendalikan serangga penghasil embun madu (kutu daun, kutu putih, kutu sisik) menggunakan insektisida berbahan aktif imidakloprid atau karbosulfan sesuai dosis yang dianjurkan",
+      "Semprotkan fungisida berbahan aktif belerang (sulfur) atau minyak neem (azadirachtin) untuk membasmi jamur pada permukaan daun",
+      "Bersihkan jelaga dari permukaan daun dengan menyemprotkan air bertekanan tinggi atau air sabun encer",
+      "Pangkas daun-daun yang terinfeksi berat untuk mengurangi sumber inokulum dan meningkatkan sirkulasi udara",
+      "Lakukan pemupukan berimbang untuk memperkuat ketahanan tanaman terhadap serangan jamur"
+    ],
+    "preventions": [
+      "Lakukan pemantauan rutin terhadap populasi serangga hama di perkebunan",
+      "Jaga kebersihan lahan dari gulma yang menjadi inang alternatif serangga hama",
+      "Terapkan jarak tanam yang sesuai untuk mencegah kelembaban berlebih",
+      "Lakukan pengendalian hama secara terpadu (PHT) untuk mencegah ledakan populasi serangga"
+    ]
+  },
+  "cochliobolus": {
+    "name": "Bercak Daun (Cochliobolus)",
+    "description": "Penyakit bercak daun yang disebabkan oleh jamur patogen Cochliobolus. Gejala berupa bercak-bercak coklat pada helaian daun yang dapat menyebar dan menyebabkan daun mengering serta gugur.",
+    "severity": "tinggi",
+    "treatments": [
+      "Aplikasikan fungisida berbahan aktif mankozeb, benomil, atau propineb dengan dosis sesuai petunjuk kemasan setiap 7-14 hari",
+      "Potong dan musnahkan daun yang terinfeksi berat untuk mencegah penyebaran spora jamur",
+      "Perbaiki drainase lahan untuk mengurangi kelembaban yang mendukung pertumbuhan jamur",
+      "Lakukan pemupukan dengan pupuk kalium (K) untuk meningkatkan ketahanan tanaman terhadap serangan jamur",
+      "Jika infeksi meluas, kombinasi fungisida sistemik dan kontak dapat digunakan secara bergantian"
+    ],
+    "preventions": [
+      "Gunakan bibit yang tahan terhadap penyakit bercak daun jika tersedia",
+      "Terapkan rotasi tanaman untuk memutus siklus hidup patogen",
+      "Atur jarak tanam agar sirkulasi udara baik dan kelembaban tidak berlebihan",
+      "Lakukan sanitasi lahan secara rutin dengan membersihkan sisa-sisa tanaman yang terinfeksi"
+    ]
+  },
+  "culvularia": {
+    "name": "Hawar Daun (Curvularia)",
+    "description": "Penyakit hawar daun yang disebabkan oleh jamur Curvularia. Gejala awal berupa bercak kecil berwarna coklat yang kemudian meluas menjadi hawar pada ujung dan tepi daun, menyebabkan daun mengering dan mati.",
+    "severity": "tinggi",
+    "treatments": [
+      "Semprotkan fungisida berbahan aktif difenokonazol, propikonazol, atau tebukonazol yang efektif mengendalikan jamur Curvularia",
+      "Lakukan pemangkasan daun yang menunjukkan gejala hawar untuk mencegah penyebaran ke daun sehat",
+      "Kurangi kelembaban sekitar tanaman dengan memperbaiki sistem drainase dan pengaturan jarak tanam",
+      "Aplikasikan pupuk daun yang mengandung unsur mikro (terutama seng dan tembaga) untuk memperkuat jaringan daun",
+      "Lakukan penyemprotan fungisida secara bergantian dengan bahan aktif berbeda untuk mencegah resistensi"
+    ],
+    "preventions": [
+      "Hindari pemupukan nitrogen berlebihan yang dapat membuat tanaman lebih rentan terhadap infeksi jamur",
+      "Lakukan monitoring rutin terutama pada musim hujan ketika kelembaban tinggi",
+      "Gunakan mulsa untuk mencegah percikan air tanah yang membawa spora jamur ke daun",
+      "Pilih lokasi tanam dengan sirkulasi udara yang baik"
+    ]
+  },
+  "drecshlera": {
+    "name": "Bercak Daun Drechslera",
+    "description": "Penyakit bercak daun yang disebabkan oleh jamur Drechslera. Gejala berupa bercak memanjang berwarna coklat gelap dengan tepi kuning yang dapat menyatu dan menyebabkan daun mengering secara masif.",
+    "severity": "tinggi",
+    "treatments": [
+      "Aplikasikan fungisida berbahan aktif karbendazim, maneb, atau klorotalonil secara rotasi setiap 7-10 hari",
+      "Kumpulkan dan bakar daun-daun yang terinfeksi untuk mengurangi sumber inokulum di lapangan",
+      "Optimalkan irigasi dengan tidak membasahi daun untuk mengurangi kelembaban permukaan daun",
+      "Tingkatkan pemupukan kalium dan fosfor untuk memperkuat dinding sel tanaman",
+      "Semprotkan biofungisida berbasis Trichoderma sp. sebagai pengendalian hayati yang ramah lingkungan"
+    ],
+    "preventions": [
+      "Gunakan varietas kelapa sawit yang memiliki ketahanan terhadap penyakit bercak daun",
+      "Lakukan pemangkasan pelepah daun secara teratur untuk meningkatkan sirkulasi udara",
+      "Terapkan sistem pengairan tetes (drip irrigation) untuk menghindari percikan air pada daun",
+      "Lakukan pengapuran pada tanah masam untuk menciptakan kondisi yang tidak mendukung perkembangan jamur"
+    ]
+  },
+  "hara": {
+    "name": "Kekurangan Unsur Hara",
+    "description": "Kondisi kekurangan nutrisi pada tanaman kelapa sawit yang ditandai dengan perubahan warna, bentuk, atau ukuran daun. Kekurangan unsur hara berbeda dengan serangan patogen dan memerlukan penanganan khusus melalui pemupukan.",
+    "severity": "sedang",
+    "treatments": [
+      "Lakukan analisis jaringan daun dan tanah untuk mengidentifikasi jenis unsur hara yang kurang secara tepat",
+      "Kekurangan Nitrogen (N): aplikasikan pupuk urea atau ZA dengan dosis 1-2 kg/pohon/tahun tergantung umur tanaman",
+      "Kekurangan Fosfor (P): aplikasikan pupuk TSP atau SP-36 dengan dosis 0.5-1 kg/pohon/tahun",
+      "Kekurangan Kalium (K): aplikasikan pupuk KCl atau MOP dengan dosis 1-3 kg/pohon/tahun",
+      "Kekurangan Magnesium (Mg): aplikasikan kieserit atau dolomit dengan dosis 0.5-1 kg/pohon/tahun",
+      "Kekurangan Boron (B): semprotkan pupuk daun yang mengandung boron atau aplikasikan borat ke tanah",
+      "Konsultasikan dengan ahli agronomi untuk rekomendasi pemupukan yang tepat berdasarkan hasil analisis"
+    ],
+    "preventions": [
+      "Lakukan pemupukan berimbang secara rutin sesuai dengan fase pertumbuhan tanaman",
+      "Lakukan analisis tanah minimal setahun sekali untuk memantau status kesuburan lahan",
+      "Gunakan pupuk organik (kompos atau pupuk kandang) sebagai tambahan untuk memperbaiki struktur tanah",
+      "Terapkan mulsa organik untuk menjaga kelembaban tanah dan menyediakan unsur hara tambahan",
+      "Lakukan kalibrasi dosis pemupukan berdasarkan umur tanaman dan kondisi lahan"
+    ]
+  },
+  "normal": {
+    "name": "Sehat",
+    "description": "Daun kelapa sawit dalam kondisi sehat dan normal. Tidak ditemukan gejala penyakit atau kekurangan unsur hara. Pertahankan kondisi ini dengan perawatan rutin.",
+    "severity": "tidak_ada",
+    "treatments": [
+      "Lanjutkan perawatan rutin seperti pemupukan berimbang sesuai jadwal",
+      "Lakukan penyiraman yang cukup terutama pada musim kemarau",
+      "Pertahankan sanitasi lahan yang baik untuk mencegah munculnya penyakit",
+      "Lakukan pemantauan rutin minimal seminggu sekali untuk deteksi dini jika ada gejala penyakit"
+    ],
+    "preventions": [
+      "Jaga kebersihan lahan dari gulma dan sisa-sisa tanaman",
+      "Terapkan pemupukan berimbang sesuai kebutuhan tanaman",
+      "Lakukan pemangkasan pelepah daun kering secara teratur",
+      "Pantau populasi serangga hama secara rutin untuk tindakan pencegahan dini"
+    ]
+  }
+}
