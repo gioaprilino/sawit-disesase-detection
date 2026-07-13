@@ -201,8 +201,8 @@ sawit_app/
       <br><sub>Machine Learning</sub>
     </td>
     <td align="center">
-      <a href="#">
-        <sub><b>Anda</b></sub>
+      <a href="https://github.com/gioaprilino">
+        <sub><b>Gio Aprilino</b></sub>
       </a>
       <br><sub>Mobile Developer</sub>
     </td>
